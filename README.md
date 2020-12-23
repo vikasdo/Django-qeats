@@ -1,9 +1,16 @@
 # Qeats-crio.do-
 ## Qeats Social Review.
 ### Micro Experience Introduction
-Crio Launch Team created a QEats Reviews page on various social media sites.
-then i used a series of REST APIs to post user-submitted reviews to the QEats Reviews pages.
-Finally, I also used a hosted AI-powered classifier to suggest relevant review hashtags.
+
+The most requested feature on QEats is the ability to share reviews on past orders on QEats' social media pages. Users want to click a photo of the orders they have received, write eye-catching captions and add relevant tags to make their reviews easily discoverable. 
+
+In this Mini-Project, we have created QEats Reviews page on various social media sites. A series REST APIs were used to post user-submitted reviews to the QEats Reviews pages. Finally, a hosted AI-powered classifier was utilized to suggest relevant review hashtags.
+
+## 🎯 Model Architecture
+
+The QEats backend provides all the necessary functionality required to enable users to order their favorite dishes from nearby restaurants. The following is the overall architecture of the QEats platform.
+
+![image](https://github.com/HarshCasper/QEats/blob/master/model_architecture.png)
 
 ### Skills to Learn
 * Python Requests module

@@ -11,7 +11,7 @@ In this Mini-Project, we have created QEats Reviews page on various social media
 The QEats backend provides all the necessary functionality required to enable users to order their favorite dishes from nearby restaurants. The following is the overall architecture of the QEats platform.
 
 #APK
-![APK link](https://drive.google.com/drive/folders/1p_wtacN-anuFP04-iEokkFmVjeYS5d8Q)
+[APK link](https://drive.google.com/drive/folders/1p_wtacN-anuFP04-iEokkFmVjeYS5d8Q)
 
 
 
